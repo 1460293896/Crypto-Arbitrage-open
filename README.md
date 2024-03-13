@@ -1,6 +1,4 @@
-# tracker
-Tracker for USDT arbitrage price discrepancies
+跟踪器
+USDT套利价格差异跟踪器
 
-Developed a Python script utilizing requests and the bitbnspy library to capture real-time price data from exchanges such as CoinDCX and Bitbns.
-Implemented algorithms to calculate price spreads and trigger customized alerts via Telegram messages for informed trading decisions.
-Achieved remarkable success with a 70% return over a three-month period, showcasing the project's effectiveness in capitalizing on price variations and optimizing trading outcomes.
+开发了一个 Python 脚本，利用请求和 bitbnspy 库从 CoinDCX 和 Bitbns 等交易所捕获实时价格数据。 实施算法来计算价差并通过 Telegram 消息触发自定义警报，以获得明智的交易决策。 在三个月内取得了70%的回报，取得了显著的成功，展示了该项目在利用价格变化和优化交易结果方面的有效性。
